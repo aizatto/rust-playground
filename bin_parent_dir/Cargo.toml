@@ -1,0 +1,10 @@
+[package]
+name = "bin_parent_dir"
+version = "0.1.0"
+authors = ["Aizat Faiz <aizat.faiz@gmail.com>"]
+edition = "2018"
+package = "bin_parent_dir"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

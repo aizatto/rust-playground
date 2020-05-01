@@ -1,0 +1,3 @@
+# From https://github.com/github/gitignore/blob/master/Rust.gitignore
+**/*.rs.bk
+.env
