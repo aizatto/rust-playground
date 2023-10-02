@@ -1,1 +1,1 @@
-https://doc.rust-lang.org/book/
+https://www.notion.so/aizatto/Rust-4be6d78260f840ecbd24c6fcf2a16b65
